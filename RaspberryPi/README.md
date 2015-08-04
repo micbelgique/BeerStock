@@ -1,6 +1,6 @@
 ## Schéma électronique
 
-![breadboard plan](http://i.imgur.com/WL5E3Qe.png)
+![breadboard plan](https://raw.githubusercontent.com/micdevcamp/BeerStock/master/RaspberryPi/beerStock_bb.png)
 
 ## Liste du matériel
 * Débitmètre
