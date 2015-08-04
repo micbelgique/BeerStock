@@ -1,3 +1,6 @@
+## Schéma électronique
+
+![breadboard plan](http://i.imgur.com/WL5E3Qe.png)
 
 ## Liste du matériel
 * Débitmètre
