@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+
+beerstock/settings.py
+
+*.log
+*.pot
